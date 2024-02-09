@@ -14,8 +14,8 @@
     <title>Slice and Solve Knives</title>
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.3/jquery.min.js"></script>
     <script src="https://cdn.jsdelivr.net/gh/gitboy3333/slicemaster0/cmg-ads.js"></script>
-    <script src="playcanvas-stable.min.js"></script>
-    <script src="__settings__.js"></script>
+    <script src="https://cdn.jsdelivr.net/gh/gitboy3333/slicemaster0/playcanvas-stable-min.js"></script>
+    <script src="https://cdn.jsdelivr.net/gh/gitboy3333/slicemaster0/__settings__.js"></script>
 </head>
 <body>
     <script src="https://cdn.jsdelivr.net/gh/gitboy3333/slicemaster0/__modules__.js"></script>
